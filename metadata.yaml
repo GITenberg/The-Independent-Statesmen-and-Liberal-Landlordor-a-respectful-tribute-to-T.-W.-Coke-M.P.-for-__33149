@@ -1,0 +1,26 @@
+_repo: The-Independent-Statesmen-and-Liberal-Landlordor-a-respectful-tribute-to-T.-W.-Coke-M.P.-for-__33149
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parkerson, James
+    gutenberg_agent_id: '35765'
+    url: http://www.gutenberg.org/2009/agents/35765
+description: ''
+gutenberg_issued: '2010-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Coke, Thomas William, Earl of Leicester, 1752-1842 -- Poetry'
+title: 'The Independent Statesmen, and Liberal Landlord
+
+  or a respectful tribute to T. W. Coke, M.P. for the County of Norfolk'
+url: http://www.gutenberg.org/ebooks/33149
